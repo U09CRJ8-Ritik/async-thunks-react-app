@@ -1,0 +1,1 @@
+In this project,I have used Redux Toolkit and API'S with Async Thunks.

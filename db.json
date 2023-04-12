@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Ritik",
+      "id": 1
+    },
+    {
+      "name": "Luz Botsford",
+      "id": 2
+    },
+    {
+      "name": "Noel Crona",
+      "id": 3
+    },
+    {
+      "name": "Miss Herman Bernier Jr.",
+      "id": 4
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
